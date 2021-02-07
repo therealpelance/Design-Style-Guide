@@ -222,3 +222,17 @@ div.hover_dark:hover {
 	font-size: 20px;
 	margin: 5px 0 10px 50px;
 }
+
+/* Footer */
+
+footer {
+	height: 100px;
+	background-color: #404a54;
+	color: whitesmoke;
+	font-family: "Montserrat";
+}
+
+.author {
+	text-align: center;
+	padding: 30px 0 0 0;
+}
