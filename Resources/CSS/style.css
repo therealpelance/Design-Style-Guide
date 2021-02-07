@@ -181,3 +181,44 @@ div.hover_dark:hover {
 .italic {
 	font-style: italic;
 }
+
+/* Text Styles Section */
+
+.styles_container {
+	border: 1px solid black;
+	width: 600px;
+	height: 450px;
+	border-radius: 10%;
+	box-shadow: 3px 4px 5px grey;
+	margin: 20px 10px;
+}
+
+.text_styles {
+	font-family: "Montserrat";
+}
+
+.h1style {
+	font-weight: 700;
+	font-size: 32px;
+	font-family: "Big Shoulders Display";
+	margin: 40px 0 10px 20px;
+}
+
+.h2style {
+	font-weight: 500;
+	font-size: 2em;
+	font-family: "Big Shoulders Display";
+	margin: 10px 0 10px 20px;
+}
+
+.pstyle {
+	font-weight: 300;
+	font-size: 20px;
+	margin: 10px 0 10px 20px;
+}
+
+.style_details {
+	font-weight: 100;
+	font-size: 20px;
+	margin: 5px 0 10px 50px;
+}
